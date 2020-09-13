@@ -1,0 +1,8 @@
+Run Command:
+python detect.py --source sample_cars/car_2.jpg  --weights weights/last.pt --conf 0.4
+
+Environment:
+* Python,Pytorch,Opencv,Numpy,Matplotlib
+
+Network Model:
+	YOLO
